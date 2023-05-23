@@ -17,4 +17,4 @@ Este projeto é um relógio digital simples desenvolvido usando HTML, CSS e Java
 3. Abra o projeto em seu navegador;
 4. O relógio digital será exibido, mostrando a hora atual.
 
-#### Sinta-se à vontade para personalizar e aprimorar este projeto, adicionando diferentes recursos ou modificando o design para atender às suas necessidades. Ele foi criado por [Larissa Kich](https://github.com/Larissakich) e alterado por mim! 💜
+#### O relógio não está responsivo, portanto, sinta-se à vontade para personalizar e aprimorar este projeto, adicionando diferentes recursos ou modificando o design para atender às suas necessidades. Ele foi criado por [Larissa Kich](https://github.com/Larissakich) e alterado por mim! 💜
